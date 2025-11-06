@@ -9,30 +9,31 @@
             "Nacimiento":"2008-19-02"
         },
         {
-            "Nombre":"taylor",
-            "numerof":13,
+            "Nombre":"Diego",
+            "numerof":39,
             "trabajo":true,
-            "Nacimiento":"1989-12-13"
+            "Nacimiento":"1986-08-25"
         },
         {
-            "Nombre":"blacutt",
-            "numerof":7,
+            "Nombre":"Nora",
+            "numerof":50,
             "trabajo":true,
-            "Nacimiento":"2007-11-15"
+            "Nacimiento":"1975-09-15"
         },
 
         {
-            "Nombre":"tiago",
-            "numerof":27,
+            "Nombre":"Tiago",
+            "numerof":2,
             "trabajo":false,
             "Nacimiento":"2007-12-29"
         },
 
         {
-            "Nombre":"angi",
-            "numerof":3,
+            "Nombre":"Sol",
+            "numerof":27,
             "trabajo":true,
-            "Nacimiento":"1986-08-14"
+            "Nacimiento":"1998-01-06"
         }
     ]
+
 }
